@@ -1,6 +1,11 @@
 # cse490
 cse490 revision control
 
-#Jose was here
-#just kidding
-# or was I?
+#You can find the file by going to cse490_put in project 2
+# References from poly
+#coffee cups by poly_by_google
+#fireplace_174 by poly_by_google
+#christmas presents by alexSAFFY
+#pine_tree by danny bittman
+#Also, my laptop is too old to download xcode to use the command so my changelog is not like the log that 
+#someone would read from typing it in the terminal. 

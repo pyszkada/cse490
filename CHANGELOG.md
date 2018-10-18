@@ -1,6 +1,5 @@
 # cse490
 cse490 revision control
 
-#Jose was here
-#just kidding
-# or was I?
+#I started off by testing out how to use github.
+#I then changed it by including my project and writing where I got some of my assets from. 
